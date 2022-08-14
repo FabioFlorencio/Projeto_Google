@@ -16,8 +16,8 @@
 
 ## :art:  Layout
 
-- <a href="./Layout/google_capa">Página principal</a>
-- <a href="./Layout/google_definicao_layout1">Definindo Tags</a>
+- <a href="./Layout/google_capa.png">Página principal</a>
+- <a href="./Layout/google_definicao_layout1.png">Definindo Tags</a>
 
 ## :mag_right:  Pré-requisitos
 

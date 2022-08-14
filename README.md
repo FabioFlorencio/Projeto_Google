@@ -5,7 +5,7 @@
 * :rocket: [Site da aplicação](https://fabioflorencio.github.io/Projeto_Google/)
 * :clapper: [Video no Youtube]()
 
-<a href="#"><img alt="Google capa" src="./Layout/google_capa.png" width="50%"></a>
+<a href="https://fabioflorencio.github.io/Projeto_Google/"><img alt="Google capa" src="./Layout/google_capa.png" width="50%"></a>
 
 
 ## :hammer_and_wrench:  Tecnologias

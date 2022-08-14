@@ -1,6 +1,6 @@
 # :earth_americas: Projeto_Google :mag: 
 
-<p>O projeto Google, tem o intuito demostrar o aprendizado das tecnologias HTML, CSS e Flexbox, com foco de usar nessa aplicação o recurso do CSS (função clamp), que permiti controlar um tamanho mínimo, máximo ou variável de um elemento dentro de uma faixa previamente estabelecida. Foi utilizado como referência a fonte <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/clamp"> MDN Web docs</a> para testar essa funcionalidade.</p>
+<p>O projeto Google tem o intuito demostrar o aprendizado das tecnologias HTML, CSS e Flexbox, com foco de usar nessa aplicação o recurso do CSS (função clamp), que permiti controlar um tamanho mínimo, máximo ou variável de um elemento dentro de uma faixa previamente estabelecida. Foi utilizado como referência a fonte <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/clamp"> MDN Web docs</a> para testar essa funcionalidade.</p>
 
 * :rocket: [Site da aplicação](https://fabioflorencio.github.io/Projeto_Google/)
 * :clapper: [Video no Youtube](https://youtu.be/-ydAh0Zjpmk)
@@ -18,9 +18,6 @@
 
 <<<<<<< HEAD
 - <a href="./Layout/google_capa.png">Página principal</a>
-=======
-- <a href="./Layout/google_definicao_layout1.png">Página principal</a>
->>>>>>> 5592589a5bb5769d18a2a5a65c748f893514935f
 
 ## :mag_right:  Pré-requisitos
 

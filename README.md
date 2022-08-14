@@ -16,7 +16,6 @@
 
 ## :art:  Layout
 
-<<<<<<< HEAD
 - <a href="./Layout/google_capa.png">Página principal</a>
 
 ## :mag_right:  Pré-requisitos

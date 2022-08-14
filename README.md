@@ -16,7 +16,7 @@
 
 ## :art:  Layout
 
-- <a href="./Layout/google_definicao_layout.png">Página principal</a>
+- <a href="./Layout/google_definicao_layout1.png">Página principal</a>
 
 ## :mag_right:  Pré-requisitos
 
